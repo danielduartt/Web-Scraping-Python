@@ -28,3 +28,11 @@ Resumo:
     usa-se o método find para procurar um dado elemento no html, pegando seu dado 
     
 '''
+print("="*50)
+print("Pegando o Título: ")
+noticia_titulo = post.find("h2", attrs={"elementtiming": "text-ssr"})
+print(noticia_titulo.prettify())
+print()
+print("Pegando só o valor: ")
+print(noticia_titulo.text)
+
