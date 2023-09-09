@@ -2,11 +2,12 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from time import sleep
 
+pesquisa = input("Digite um produto para ser pesquisado no magazine: ")
 navegador = webdriver.Firefox()
 navegador.get("https://www.magazineluiza.com.br/")
 navegador.implicitly_wait(10)
 input_place = navegador.find_element(By.ID, 'input-search')
-input_place.send_keys("geladeira")
+input_place.send_keys(pesquisa.strip().upper())
 input_place.submit()
 sleep(5)
 
