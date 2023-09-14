@@ -374,8 +374,9 @@ Read port: 51355
 console.error: ({})
 DevTools listening on ws://127.0.0.1:51346/devtools/browser/5a5cec00-5739-4337-889e-1ba2244b3838
 JavaScript warning: https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.c5ccc28663.js, line 24: unreachable code after return statement
-1694212513383	geckodriver	INFO	Listening on 127.0.0.1:51429
-1694212516443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "window-size = 400,800" "--headless" "--rem ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofile9Inym1"
+Exiting due to channel error.
+Exiting due to channel error.
+94212516443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "window-size = 400,800" "--headless" "--rem ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofile9Inym1"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
@@ -391,8 +392,9 @@ Read port: 51451
 console.error: ({})
 DevTools listening on ws://127.0.0.1:51430/devtools/browser/1a9e206c-0be3-4d79-b3d2-592464a9f20b
 JavaScript warning: https://a0.muscache.com/airbnb/static/packages/web/common/frontend/hyperloop-browser/core.c5ccc28663.js, line 24: unreachable code after return statement
-1694212552059	geckodriver	INFO	Listening on 127.0.0.1:51525
-1694212555090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "window-size = 400,800" "--remote-debugging ... 6" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofilekWNbat"
+Exiting due to channel error.
+Exiting due to channel error.
+94212555090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "window-size = 400,800" "--remote-debugging ... 6" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofilekWNbat"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1694212557134	Marionette	INFO	Marionette enabled
