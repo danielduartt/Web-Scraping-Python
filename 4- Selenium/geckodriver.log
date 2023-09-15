@@ -2349,3 +2349,597 @@ maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
 
 console.warn: services.settings: main/translations-models sync interrupted by shutdown
 console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1694709002280	geckodriver	INFO	Listening on 127.0.0.1:61676
+1694709005329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61677" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofilecVa3Km"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694709006450	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694709006704	Marionette	INFO	Listening on port 61685
+WebDriver BiDi listening on ws://127.0.0.1:61677
+Read port: 61685
+1694709007202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61677/devtools/browser/416b96d3-b872-465d-95cf-3811d5c655d0
+JavaScript warning: https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.MlOy8GmVyDc.O/am=CAAAAAAAAAAAAAAAAgCgBsIhgA0wQCAAAgAAIAAABQURBDAAEOBRJhIDAEAACIEJIAb2AABKqAYAAAAAQNgPAAAAAADBAiAAANAEMCAEKAIEAAAAQB4AgAcAGERYAAAAAAAAAAAAAAFPEAwuSAAEBEAAAAAAAAAAAABAKpu8GEA/d=1/ed=1/dg=2/rs=ACT90oE2B11pAufSrJpfsT2yGfrdAdiBHQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=cdos,cr,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl, line 403: Script terminated by timeout at:
+_.Nk@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.MlOy8GmVyDc.O/am=CAAAAAAAAAAAAAAAAgCgBsIhgA0wQCAAAgAAIAAABQURBDAAEOBRJhIDAEAACIEJIAb2AABKqAYAAAAAQNgPAAAAAADBAiAAANAEMCAEKAIEAAAAQB4AgAcAGERYAAAAAAAAAAAAAAFPEAwuSAAEBEAAAAAAAAAAAABAKpu8GEA/d=1/ed=1/dg=2/rs=ACT90oE2B11pAufSrJpfsT2yGfrdAdiBHQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=cdos,cr,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:403:459
+_.Rk@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.MlOy8GmVyDc.O/am=CAAAAAAAAAAAAAAAAgCgBsIhgA0wQCAAAgAAIAAABQURBDAAEOBRJhIDAEAACIEJIAb2AABKqAYAAAAAQNgPAAAAAADBAiAAANAEMCAEKAIEAAAAQB4AgAcAGERYAAAAAAAAAAAAAAFPEAwuSAAEBEAAAAAAAAAAAABAKpu8GEA/d=1/ed=1/dg=2/rs=ACT90oE2B11pAufSrJpfsT2yGfrdAdiBHQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=cdos,cr,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:408:1034
+Ota@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.MlOy8GmVyDc.O/am=CAAAAAAAAAAAAAAAAgCgBsIhgA0wQCAAAgAAIAAABQURBDAAEOBRJhIDAEAACIEJIAb2AABKqAYAAAAAQNgPAAAAAADBAiAAANAEMCAEKAIEAAAAQB4AgAcAGERYAAAAAAAAAAAAAAFPEAwuSAAEBEAAAAAAAAAAAABAKpu8GEA/d=1/ed=1/dg=2/rs=ACT90oE2B11pAufSrJpfsT2yGfrdAdiBHQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=cdos,cr,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:420:347
+b@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.MlOy8GmVyDc.O/am=CAAAAAAAAAAAAAAAAgCgBsIhgA0wQCAAAgAAIAAABQURBDAAEOBRJhIDAEAACIEJIAb2AABKqAYAAAAAQNgPAAAAAADBAiAAANAEMCAEKAIEAAAAQB4AgAcAGERYAAAAAAAAAAAAAAFPEAwuSAAEBEAAAAAAAAAAAABAKpu8GEA/d=1/ed=1/dg=2/rs=ACT90oE2B11pAufSrJpfsT2yGfrdAdiBHQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=cdos,cr,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:416:49
+
+1694709016903	Marionette	INFO	Stopped listening on port 61685
+Dynamically enable window occlusion 1
+1694710233946	geckodriver	INFO	Listening on 127.0.0.1:62304
+1694710237042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62305" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofiledTx9pb"
+1694710261646	geckodriver	INFO	Listening on 127.0.0.1:62346
+1694710264716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62347" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofileA6kMmB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694710265360	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694710265542	Marionette	INFO	Listening on port 62354
+WebDriver BiDi listening on ws://127.0.0.1:62347
+Read port: 62354
+1694710265936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62347/devtools/browser/791bf164-acbe-43c9-b296-33da44633078
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.MlOy8GmVyDc.O/am=CAAAAAAAAAAAAAAAAgCgBsIhgA0wQCAAAgAAIAAABQURBDAAEOBRJhIDAEAACIEJIA72AABKqAYAAAAAQNgPAAAAAADBAiAAANAEMCAELAIEAAAAQB4AgAcAGERYAAAAAAAAAAAAAAFPEAwuSAAEBEAAAAAAAAAAAABAKpu8GEA/d=1/ed=1/dg=2/rs=ACT90oGqKvDYD2dV1vzi6rXIxCxvOOa_UA/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=cdos,cr,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl, line 416: Script terminated by timeout at:
+b@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.MlOy8GmVyDc.O/am=CAAAAAAAAAAAAAAAAgCgBsIhgA0wQCAAAgAAIAAABQURBDAAEOBRJhIDAEAACIEJIA72AABKqAYAAAAAQNgPAAAAAADBAiAAANAEMCAELAIEAAAAQB4AgAcAGERYAAAAAAAAAAAAAAFPEAwuSAAEBEAAAAAAAAAAAABAKpu8GEA/d=1/ed=1/dg=2/rs=ACT90oGqKvDYD2dV1vzi6rXIxCxvOOa_UA/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=cdos,cr,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:416:40
+
+1694710294194	Marionette	INFO	Stopped listening on port 62354
+Dynamically enable window occlusion 1
+1694710617412	geckodriver	INFO	Listening on 127.0.0.1:62524
+1694710620478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofileQxJUDN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694710621267	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694710621474	Marionette	INFO	Listening on port 62532
+Read port: 62532
+WebDriver BiDi listening on ws://127.0.0.1:62525
+1694710621629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62525/devtools/browser/cfa5549e-274d-407e-aade-b2ce3c22abe8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.br."
+JavaScript warning: https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.MlOy8GmVyDc.O/am=ChAAAQIAAAAAAAAAAgCgAsIhk03xAP_cBwAAMAAABVURBDABEOD9JxIDAEAACIAJIA72AABKqAbsAAAAwNgPAAAEAADFAmC8ANAE8CEEKAIEAAAAQB4AnAcQHER4AAAAAAAAAAAAAAFPEAwOSI8FBEAAAAAAAAAAAABAKpu8HEAAAAw/d=1/ed=1/dg=2/rs=ACT90oGkoJbVLIHL-WnWlouy9p1IRPYmbQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl, line 666: Script terminated by timeout at:
+_.l.vy/d.next@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.MlOy8GmVyDc.O/am=ChAAAQIAAAAAAAAAAgCgAsIhk03xAP_cBwAAMAAABVURBDABEOD9JxIDAEAACIAJIA72AABKqAbsAAAAwNgPAAAEAADFAmC8ANAE8CEEKAIEAAAAQB4AnAcQHER4AAAAAAAAAAAAAAFPEAwOSI8FBEAAAAAAAAAAAABAKpu8HEAAAAw/d=1/ed=1/dg=2/rs=ACT90oGkoJbVLIHL-WnWlouy9p1IRPYmbQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:666:270
+iBa/a.next@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.MlOy8GmVyDc.O/am=ChAAAQIAAAAAAAAAAgCgAsIhk03xAP_cBwAAMAAABVURBDABEOD9JxIDAEAACIAJIA72AABKqAbsAAAAwNgPAAAEAADFAmC8ANAE8CEEKAIEAAAAQB4AnAcQHER4AAAAAAAAAAAAAAFPEAwOSI8FBEAAAAAAAAAAAABAKpu8HEAAAAw/d=1/ed=1/dg=2/rs=ACT90oGkoJbVLIHL-WnWlouy9p1IRPYmbQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:657:380
+hBa/a.next@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.MlOy8GmVyDc.O/am=ChAAAQIAAAAAAAAAAgCgAsIhk03xAP_cBwAAMAAABVURBDABEOD9JxIDAEAACIAJIA72AABKqAbsAAAAwNgPAAAEAADFAmC8ANAE8CEEKAIEAAAAQB4AnAcQHER4AAAAAAAAAAAAAAFPEAwOSI8FBEAAAAAAAAAAAABAKpu8HEAAAAw/d=1/ed=1/dg=2/rs=ACT90oGkoJbVLIHL-WnWlouy9p1IRPYmbQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:657:215
+hBa/a.next@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.MlOy8GmVyDc.O/am=ChAAAQIAAAAAAAAAAgCgAsIhk03xAP_cBwAAMAAABVURBDABEOD9JxIDAEAACIAJIA72AABKqAbsAAAAwNgPAAAEAADFAmC8ANAE8CEEKAIEAAAAQB4AnAcQHER4AAAAAAAAAAAAAAFPEAwOSI8FBEAAAAAAAAAAAABAKpu8HEAAAAw/d=1/ed=1/dg=2/rs=ACT90oGkoJbVLIHL-WnWlouy9p1IRPYmbQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:657:215
+jBa/a.next@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.MlOy8GmVyDc.O/am=ChAAAQIAAAAAAAAAAgCgAsIhk03xAP_cBwAAMAAABVURBDABEOD9JxIDAEAACIAJIA72AABKqAbsAAAAwNgPAAAEAADFAmC8ANAE8CEEKAIEAAAAQB4AnAcQHER4AAAAAAAAAAAAAAFPEAwOSI8FBEAAAAAAAAAAAABAKpu8HEAAAAw/d=1/ed=1/dg=2/rs=ACT90oGkoJbVLIHL-WnWlouy9p1IRPYmbQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:658:150
+iBa/a.next@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.MlOy8GmVyDc.O/am=ChAAAQIAAAAAAAAAAgCgAsIhk03xAP_cBwAAMAAABVURBDABEOD9JxIDAEAACIAJIA72AABKqAbsAAAAwNgPAAAEAADFAmC8ANAE8CEEKAIEAAAAQB4AnAcQHER4AAAAAAAAAAAAAAFPEAwOSI8FBEAAAAAAAAAAAABAKpu8HEAAAAw/d=1/ed=1/dg=2/rs=ACT90oGkoJbVLIHL-WnWlouy9p1IRPYmbQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:657:380
+hBa/a.next@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.MlOy8GmVyDc.O/am=ChAAAQIAAAAAAAAAAgCgAsIhk03xAP_cBwAAMAAABVURBDABEOD9JxIDAEAACIAJIA72AABKqAbsAAAAwNgPAAAEAADFAmC8ANAE8CEEKAIEAAAAQB4AnAcQHER4AAAAAAAAAAAAAAFPEAwOSI8FBEAAAAAAAAAAAABAKpu8HEAAAAw/d=1/ed=1/dg=2/rs=ACT90oGkoJbVLIHL-WnWlouy9p1IRPYmbQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:657:215
+_.gBa@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.MlOy8GmVyDc.O/am=ChAAAQIAAAAAAAAAAgCgAsIhk03xAP_cBwAAMAAABVURBDABEOD9JxIDAEAACIAJIA72AABKqAbsAAAAwNgPAAAEAADFAmC8ANAE8CEEKAIEAAAAQB4AnAcQHER4AAAAAAAAAAAAAAFPEAwOSI8FBEAAAAAAAAAAAABAKpu8HEAAAAw/d=1/ed=1/dg=2/rs=ACT90oGkoJbVLIHL-WnWlouy9p1IRPYmbQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:657:80
+p0q@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.MlOy8GmVyDc.O/am=ChAAAQIAAAAAAAAAAgCgAsIhk03xAP_cBwAAMAAABVURBDABEOD9JxIDAEAACIAJIA72AABKqAbsAAAAwNgPAAAEAADFAmC8ANAE8CEEKAIEAAAAQB4AnAcQHER4AAAAAAAAAAAAAAFPEAwOSI8FBEAAAAAAAAAAAABAKpu8HEAAAAw/d=1/ed=1/dg=2/rs=ACT90oGkoJbVLIHL-WnWlouy9p1IRPYmbQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:1164:225
+r0q/<@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.MlOy8GmVyDc.O/am=ChAAAQIAAAAAAAAAAgCgAsIhk03xAP_cBwAAMAAABVURBDABEOD9JxIDAEAACIAJIA72AABKqAbsAAAAwNgPAAAEAADFAmC8ANAE8CEEKAIEAAAAQB4AnAcQHER4AAAAAAAAAAAAAAFPEAwOSI8FBEAAAAAAAAAAAABAKpu8HEAAAAw/d=1/ed=1/dg=2/rs=ACT90oGkoJbVLIHL-WnWlouy9p1IRPYmbQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:1163:958
+
+1694710631680	Marionette	INFO	Stopped listening on port 62532
+Dynamically enable window occlusion 1
+1694710718950	geckodriver	INFO	Listening on 127.0.0.1:62621
+1694710721998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62622" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofileT512o1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694710722572	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694710722757	Marionette	INFO	Listening on port 62630
+WebDriver BiDi listening on ws://127.0.0.1:62622
+Read port: 62630
+1694710723035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62622/devtools/browser/9e27e5be-87cb-4a94-9af2-a4290e48abe3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.br."
+JavaScript warning: https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.MlOy8GmVyDc.O/am=ChAAAQIAQAAAAAEAAgCgAsIhk03xAP_cBwAAMAAABVURBDABEOD9JxIDAEAACIAJIA72AABKqAbsAAAAwNgPAAAEAADFAmC8ANAE8CEEKAIEAAAAQB4AnAcQHER4AAAAAAAAAAAAAAFPEAwOSI8FBEAAAAAAAAAAAABAKpu8HEAAAAw/d=1/ed=1/dg=2/rs=ACT90oFO6jpmzia_p1yRzWVlmpjzLd3rPw/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl, line 416: Script terminated by timeout at:
+b@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.MlOy8GmVyDc.O/am=ChAAAQIAQAAAAAEAAgCgAsIhk03xAP_cBwAAMAAABVURBDABEOD9JxIDAEAACIAJIA72AABKqAbsAAAAwNgPAAAEAADFAmC8ANAE8CEEKAIEAAAAQB4AnAcQHER4AAAAAAAAAAAAAAFPEAwOSI8FBEAAAAAAAAAAAABAKpu8HEAAAAw/d=1/ed=1/dg=2/rs=ACT90oFO6jpmzia_p1yRzWVlmpjzLd3rPw/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfDevTools listening on ws://127.0.0.1:64039/devtools/browser/3222b879-7f3b-4089-92fd-888ee595406a
+1694711322841	Marionette	INFO	Stopped listening on port 64046
+Dynamically enable window occlusion 1
+f:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:416:40
+
+1694711259529	Marionette	INFO	Stopped listening on port 62630
+Dynamically enable window occlusion 1
+1694711384070	geckodriver	INFO	Listening on 127.0.0.1:64131
+1694711387155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64132" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofileULfmhS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694711388020	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694711388261	Marionette	INFO	Listening on port 64142
+WebDriver BiDi listening on ws://127.0.0.1:64132
+Read port: 64142
+1694711388573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1694711547530	geckodriver	INFO	Listening on 127.0.0.1:64201
+1694711550618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64202" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofileBFdsbu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694711551339	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694711551545	Marionette	INFO	Listening on port 64209
+WebDriver BiDi listening on ws://127.0.0.1:64202
+Read port: 64209
+1694711551961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64202/devtools/browser/24e8b99b-b1ed-453c-8f55-d17a3d18fac9
+1694711579544	Marionette	INFO	Stopped listening on port 64209
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64241" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofile0h4YXJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694711572106	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694711572306	Marionette	INFO	Listening on port 64248
+WebDriver BiDi listening on ws://127.0.0.1:64241
+Read port: 64248
+1694711572548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64241/devtools/browser/4d897d43-db6d-4d62-9871-4679345a7bb9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mercadolivre.com.br."
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'file:///'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mercadolivre.com.br."
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mercadolivre.com.br."
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'file:///'
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 703"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:703:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:556:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:452:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:416:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2167:33
+addAllSources@resource://devtools/server/actors/thread.js:1492:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:322:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:527:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:436:21
+Line: 703, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 703: Failed to open input source 'file:///'
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694712575961	geckodriver	INFO	Listening on 127.0.0.1:64471
+1694712579042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64472" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofile61c1Vp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694712579856	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694712580078	Marionette	INFO	Listening on port 64479
+WebDriver BiDi listening on ws://127.0.0.1:64472
+Read port: 64479
+1694712580489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64472/devtools/browser/922840d4-fac8-4c91-999b-96f2b683508e
+JavaScript warning: https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx], line 5: Script terminated by timeout at:
+p@https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx]:5:8215
+O/<@https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx]:5:31756
+
+1694712613589	Marionette	INFO	Stopped listening on port 64479
+Dynamically enable window occlusion 1
+console.error: (new Error("IndexedDB: main/message-groups getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+
+Dynamically enable window occlusion 0
+1694712608515	Marionette	INFO	Listening on port 64576
+WebDriver BiDi listening on ws://127.0.0.1:64567
+Read port: 64576
+1694712608928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64567/devtools/browser/b11cd6d4-5294-4a60-8606-6e82990e1adb
+JavaScript error: https://http2.mlstatic.com/storage/melidata-js-sdk/js/3/0.4.2/melidata.min.js, line 1: SecurityError: Permission denied to access property "hostname" on cross-origin object
+JavaScript error: https://http2.mlstatic.com/storage/melidata-js-sdk/js/3/0.4.2/melidata.min.js, line 1: SecurityError: Permission denied to access property "hostname" on cross-origin object
+JavaScript warning: https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx], line 5: Script terminated by timeout at:
+p@https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx]:5:8215
+O/<@https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx]:5:31756
+
+1694712629225	Marionette	INFO	Stopped listening on port 64576
+Dynamically enable window occlusion 1
+1694712640548	geckodriver	INFO	Listening on 127.0.0.1:64672
+1694712643636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofilegQO3in"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694712644208	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694712644391	Marionette	INFO	Listening on port 64681
+WebDriver BiDi listening on ws://127.0.0.1:64673
+Read port: 64681
+1694712644649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64673/devtools/browser/1663aec7-3444-45d1-a7b7-f32ade561729
+JavaScript warning: https://www.mercadolivre.com.br/, line 5: Script terminated by timeout at:
+getBucket@https://www.mercadolivre.com.br/:5:35303
+storeMetric@https://www.mercadolivre.com.br/:5:35081
+storeSupportabilityMetrics@https://js-agent.newrelic.com/nr-spa.142f942f-1.239.1.min.js:2:31085
+8939/unload/<@https://js-agent.newrelic.com/nr-spa.142f942f-1.239.1.min.js:2:32743
+unload@https://js-agent.newrelic.com/nr-spa.142f942f-1.239.1.min.js:2:32466
+onUnload@https://js-agent.newrelic.com/nr-spa.142f942f-1.239.1.min.js:2:30887
+unload@https://js-agent.newrelic.com/nr-spa.142f942f-1.239.1.min.js:2:1306
+i/<@https://www.mercadolivre.com.br/:5:13772
+nrWrapper@https://www.mercadolivre.com.br/:5:14717
+
+1694712677534	Marionette	INFO	Stopped listening on port 64681
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mercadolivre.com.br."
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.error: "Unable to find target with innerWindowId:6442450984"
+console.error: "Unable to find target with innerWindowId:6442450984"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442450988"
+console.error: "Unable to find target with innerWindowId:6442450988"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx], line 5: Script terminated by timeout at:
+n@https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx]:5:10199
+O/<@https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx]:5:31922
+
+1694713387348	Marionette	INFO	Stopped listening on port 64763
+Dynamically enable window occlusion 1
+1694713404999	geckodriver	INFO	Listening on 127.0.0.1:64923
+1694713408070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64924" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofile6az0zX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694713408729	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694713408908	Marionette	INFO	Listening on port 64931
+WebDriver BiDi listening on ws://127.0.0.1:64924
+Read port: 64931
+1694713409245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64924/devtools/browser/00e3b794-1542-47e8-81dd-b8ed9c52f5c6
+JavaScript warning: https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx], line 5: Script terminated by timeout at:
+p@https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx]:5:8215
+O/<@https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx]:5:31756
+
+1694713719895	Marionette	INFO	Stopped listening on port 64931
+Dynamically enable window occlusion 1
+1694713825901	geckodriver	INFO	Listening on 127.0.0.1:65060
+1694713828980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofileFCcLcV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694713829727	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694713829942	Marionette	INFO	Listening on port 65069
+WebDriver BiDi listening on ws://127.0.0.1:65061
+Read port: 65069
+1694713830275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1694713834203	Marionette	INFO	Stopped listening on port 65069
+Dynamically enable window occlusion 1
+1694713834221	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+1694713849214	geckodriver	INFO	Listening on 127.0.0.1:65089
+1694713852278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65090" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofilejaFkZ5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694713852874	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694713853049	Marionette	INFO	Listening on port 65097
+WebDriver BiDi listening on ws://127.0.0.1:65090
+Read port: 65097
+1694713853335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65090/devtools/browser/1766c0fa-6abe-4797-b971-24c2dc9e4ccb
+JavaScript warning: https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx], line 5: Script terminated by timeout at:
+p@https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx]:5:8215
+O/<@https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx]:5:31756
+
+1694714182832	Marionette	INFO	Stopped listening on port 65097
+Dynamically enable window occlusion 1
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7808
+@https://connect.facebook.net/en_US/fbevents.js:24:65377
+
+1694714193886	geckodriver	INFO	Listening on 127.0.0.1:65238
+1694714196917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65239" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofile0bP1cp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694714197814	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694714198169	Marionette	INFO	Listening on port 65246
+WebDriver BiDi listening on ws://127.0.0.1:65239
+Read port: 65246
+1694714198637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1694714202464	geckodriver	INFO	Listening on 127.0.0.1:65251
+1694714205500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65252" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofile7Ac9xE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694714206233	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694714206473	Marionette	INFO	Listening on port 65259
+WebDriver BiDi listening on ws://127.0.0.1:65252
+Read port: 65259
+1694714206816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65252/devtools/browser/c402da35-d7fb-452a-9294-231ba7d17096
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694714252616	Marionette	INFO	Stopped listening on port 65259
+Dynamically enable window occlusion 1
+1694714275572	geckodriver	INFO	Listening on 127.0.0.1:65357
+1694714278600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65358" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofilerA9yLw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694714279303	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694714279491	Marionette	INFO	Listening on port 65368
+Read port: 65368
+WebDriver BiDi listening on ws://127.0.0.1:65358
+1694714279630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65358/devtools/browser/79aafc91-8498-48d2-b7e8-a089f9c59eba
+JavaScript warning: https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx], line 5: Script terminated by timeout at:
+p@https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx]:5:8424
+O/<@https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx]:5:31895
+
+1694714431930	Marionette	INFO	Stopped listening on port 65368
+Dynamically enable window occlusion 1
+1694714435421	geckodriver	INFO	Listening on 127.0.0.1:65484
+1694714438498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofileX0Q9A4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694714439084	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694714439246	Marionette	INFO	Listening on port 65492
+WebDriver BiDi listening on ws://127.0.0.1:65485
+Read port: 65492
+1694714439491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65485/devtools/browser/6bbf893a-a281-4e9f-b3bb-f4dcdd2e5e41
+1694714469858	geckodriver	INFO	Listening on 127.0.0.1:49194
+1694714472907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofilewZg23L"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694714473463	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694714473630	Marionette	INFO	Listening on port 49210
+WebDriver BiDi listening on ws://127.0.0.1:49195
+Read port: 49210
+1694714473922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49195/devtools/browser/fc50223b-d6d6-4698-ac51-311c2bacd9a4
+JavaScript warning: https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx], line 5: Script terminated by timeout at:
+p@https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx]:5:8215
+O/<@https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx]:5:31756
+
+1694714524241	Marionette	INFO	Stopped listening on port 49210
+Dynamically enable window occlusion 1
+abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1694714582017	geckodriver	INFO	Listening on 127.0.0.1:49328
+1694714585058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofileTJ2wtg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694714585566	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694714585724	Marionette	INFO	Listening on port 49337
+WebDriver BiDi listening on ws://127.0.0.1:49329
+Read port: 49337
+1694714585928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49329/devtools/browser/079984c9-29ac-4802-8b98-3be49b2d844b
+console.error: "Unable to find target with innerWindowId:6442450950"
+JavaScript error: resource://devtools/shared/protocol/Front/FrontClassWithSpec.js, line 28: Error: Can not send request 'cancelPickColorFromPage' because front 'inspector' is already destroyed.
+console.error: "Unable to find target with innerWindowId:6442450950"
+console.error: "Unable to find target with innerWindowId:6442450950"
+console.error: "Unable to find target with innerWindowId:6442450950"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442450950"
+console.error: "Unable to find target with innerWindowId:6442450950"
+console.error: "Unable to find target with innerWindowId:6442450950"
+JavaScript error: https://znefi6i3nkl8bgcta-mercadolibre.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_efi6I3nkl8bGcTA, line 3: Error: Loading chunk 12 failed.
+(error: https://siteintercept.qualtrics.com/dxjsmodule/12.2158c5447122fa995560.chunk.js?Q_CLIENTVERSION=1.98.1&Q_CLIENTTYPE=web&Q_BRANDID=www.mercadolivre.com.br)
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Can not send request 'hide' because front 'customhighlighter' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+console.warn: LoginHelper(Main): "Couldn't parse specified uri [System Principal] with error NS_ERROR_MALFORMED_URI"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694714803530	Marionette	INFO	Stopped listening on port 49337
+Dynamically enable window occlusion 1
+
+1694714696158	Marionette	INFO	Listening on port 49482
+WebDriver BiDi listening on ws://127.0.0.1:49474
+Read port: 49482
+1694714696416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49474/devtools/browser/a5447f18-5a8d-44db-ac8e-5f87e1bcb8c2
+console.error: "Unable to find target with innerWindowId:6442450950"
+console.error: "Unable to find target with innerWindowId:6442450950"
+console.error: "Unable to find target with innerWindowId:6442450950"
+console.error: "Unable to find target with innerWindowId:6442450950"
+console.error: "Unable to find target with innerWindowId:6442450950"
+console.error: "Unable to find target with innerWindowId:6442450950"
+console.error: "Unable to find target with innerWindowId:6442450950"
+console.error: "stylesheets: fetch failed for https://http2.mlstatic.com/frontend-assets/ml-web-navigation/ui-navigation/6.4.1/mercadolibre/navigation-desktop.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://http2.mlstatic.com/frontend-assets/vpp-frontend/pdp.desktop.ba9a99de.css, using system principal instead."
+JavaScript error: https://znefi6i3nkl8bgcta-mercadolibre.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_efi6I3nkl8bGcTA, line 3: Error: Loading chunk 12 failed.
+(error: https://siteintercept.qualtrics.com/dxjsmodule/12.2158c5447122fa995560.chunk.js?Q_CLIENTVERSION=1.98.1&Q_CLIENTTYPE=web&Q_BRANDID=www.mercadolivre.com.br)
+JavaScript error: resource://devtools/client/inspector/markup/markup.js, line 865: TypeError: this._containers is null
+JavaScript error: resource://devtools/client/inspector/markup/markup.js, line 865: TypeError: this._containers is null
+JavaScript error: resource://devtools/client/inspector/markup/markup.js, line 865: TypeError: this._containers is null
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 192))
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 192))
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.m1694714854027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofile8WI1yf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694714854680	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694714854871	Marionette	INFO	Listening on port 49630
+WebDriver BiDi listening on ws://127.0.0.1:49623
+Read port: 49630
+1694714855142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49623/devtools/browser/03940edd-a11b-4a5b-941b-2b0bca41fd4c
+1694714974630	geckodriver	INFO	Listening on 127.0.0.1:49744
+1694714977697	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\duart\\AppData\\Local\\Temp\\rust_mozprofile0D8zxs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694714978254	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694714978437	Marionette	INFO	Listening on port 49753
+WebDriver BiDi listening on ws://127.0.0.1:49745
+Read port: 49753
+1694714978699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49745/devtools/browser/218b207a-3393-4187-a6fa-c59cb711e4b9
+JavaScript warning: https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx], line 5: Script terminated by timeout at:
+p@https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx]:5:8215
+O/<@https://lista.mercadolivre.com.br/fone-hyperx#D[A:Fone%20hyperx]:5:31756
+
+1694715051632	Marionette	INFO	Stopped listening on port 49753
+Dynamically enable window occlusion 1
